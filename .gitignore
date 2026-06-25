@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+
+# Data
+data/raw/
+data/processed/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# Models
+models/*.h5
+models/*.pkl
+
+# Results
+results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
